@@ -110,7 +110,7 @@ while True:
 
 ## Output:
 
-![Output](<../Screenshot 2024-09-07 223455.png>)
+![Screenshot 2024-09-07 223455](https://github.com/user-attachments/assets/4d92c312-2376-4a9f-8235-317e9c4f9e0e)
 
 ## Result:
 
