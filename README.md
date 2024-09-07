@@ -110,7 +110,7 @@ while True:
 
 ## Output:
 
-![alt text](<../Screenshot 2024-09-07 223455.png>)
+![output](<../Screenshot 2024-09-07 223455.png>)
 
 
 ## Result:
