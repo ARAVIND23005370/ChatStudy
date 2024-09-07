@@ -112,7 +112,6 @@ while True:
 
 ![Output](<../Screenshot 2024-09-07 223455.png>)
 
-
 ## Result:
 
 Thus the study on Client Server Chat Applications has been performed
