@@ -1,8 +1,5 @@
 # Ex. No:1b 			Study of Client Server Chat Applications
 
-### R.ARAVIND
-### 212223230019
-
 ## Aim: 
 To perform a study on Client Server Chat Applications
 ## Introduction:
